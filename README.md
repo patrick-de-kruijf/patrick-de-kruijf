@@ -8,44 +8,35 @@ This page is intended to help others understand what it might be like to work wi
 - I do not check email, work, or respond to work-related messages on days off, holidays, evenings and the weekends.
 
 ## 📫 Communication preferences
-<!--
-Communicate. If there's a problem or you're blocked on something, please bring it up. I'll generally interpret silence as "everything's fine".
-- **I prefer to communicate via calls for longer dialogs** (phone, slack or teams will do) I highly dislike phone calls, because I need time to process information and feel rushed to repsond.
-- **Need me to respond quickly?** send me a text message (only call if something is on fire 🔥).
-- **I don’t have unscheduled meetings**. My weeks are packed with training, workshops and customer work. I protect my time and manage my energy levels: In order to do my best work (creating scripts, workshops, etc), I need long stretches of time to think and focus. Unscheduled calls are interruptions for me.
--->
+Open, honest and direct communication works best for and with me. If there is something that you need from me, just ask for it. I generally do not _to the point_ in my communication. If you do not ask for more information or help, I assume you are up-to-date and know enough.
+- **I prefer to communicate via calls for dialogs** (phone, slack or teams will do) 
+- **I might tell you that I do have the time or energy at this moment** If I tell you this, this is nothing personal, I just need to _make room in my head_ first 
+- **If I do not pickup if you call, try sending me a message** I will make sure to call you back as soon as possible. GIving context in the message will help me get an answer quicker for you
 
 ## 💻 My working style
-<!--
-- **I like explicit tasks.** I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of month”.
-- **Transparency is very important to me.** Please work with a low level of shame, no ego, and be open to criticism.
-- **If I disagree with you, I may try to steer you down a different path.** But me disagreeing with you doesn’t mean that you’re doing something wrong.
-- **Please do not take offense to periods of silence.** I prefer long, uninterrupted windows of time to work. I disable all notifications on my laptop and my phone. This allows me to focus deeply on one task at a time, which is a more efficient way of working than attempting to multitask.
-- **I need recovery time after social events.** After trainings and workshops I go offline to recover from a social hangover and focus on individual work.
-- **I appreciate “I don’t know” as an answer.** 
--->
+- **I am multitasking a lot** While waiting on actions to complete I tend to work on something else in the meantime
+- **I quickly evaluate consequences during a conversation and share concerns** This could be picked up as 'pessimistic', but I do this with good/positive intent
+- **I remember a lot of details about a lot of things** This might come across as if I know everything and more than others, but this it not always true 
+- **I need time to recharge after long or intense meetings and interactions** 
+- **I feel responsible for the customers that I help and team I work for** 
+- **I generally do not assume anything and will verify**
 
 ## 🙏 Respect
-<!--
-- **I take action items really seriously** and I expect you to know what yours are, when they are due, and get them done. I don’t like chasing them but I do notice when things slip, it’s fine to renegotiate deadlines but I’ll be annoyed if it’s the day after the deadline.
-- **I am generally clear-minded and explicit about my priorities.** My job is to achieve my priorities. Your job is to achieve your priorities. Our time together, in any context, is best spent at the intersection of our respective priorities. I therefore very much appreciate knowing what your priorities are when we talk.
--->
+- **I treat others like I want to be treated myself** 
+- **I accept making mistakes and want to help others to learn and expect others to do the same with me**
 
 ## What I assume about others
-<!--
-- ❤️ Positive intent, open to feedback and willingness to learn.
-- 💜 You’ll ask for my input and help if it’s needed.
-- 💙 You do your best effort to be inclusive when communicating with me and my team.
-- 💚 You have more going on than the one thing we're discussing.
-- 💛 Everyone is likely fighting a battle I know nothing about. 
--->
+- You will ask help if you need it
+- You ask for clarification if something is not clear
+- You might have something going on that I do not know about
+- You speak up and stand up for yourself and your colleagues
 
 ## I love working with people who… 
-<!--
-- know their topic and ask questions when they don't know.
-- proactively deal with the boring, difficult, uncomfortable work. 
-- only need to be told something once. 
--->
+- Communicate 
+- Learn quick
+- Know their skill levels
+- Trust, but verify
+- Speak up and stand up
 
 ## Hobbies & Interests
 - 🏍️ Riding my motorcycle
