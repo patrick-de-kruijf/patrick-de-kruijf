@@ -4,7 +4,7 @@ This page is intended to help others understand what it might be like to work wi
 
 ## 🕤 Time zone and working hours
 - My working days are monday-friday
-- I work remote between 08.00 - 18:00 (Amsterdam time) from home and Xpirit HQ (NL)
+- I work mostly at the office between 05.30 - 14:00 (Amsterdam time)
 - I do not check email, work, or respond to work-related messages on days off, holidays, evenings and the weekends.
 
 ## 📫 Communication preferences
@@ -30,6 +30,8 @@ Open, honest and direct communication works best for and with me. If there is so
 - You ask for clarification if something is not clear
 - You might have something going on that I do not know about
 - You speak up and stand up for yourself and your colleagues
+- You are trying to make us better when providing feedback
+- You tell me if I'm doing things wrong or you have a better way for me to do something
 
 ## I love working with people who… 
 - Communicate 
@@ -37,12 +39,12 @@ Open, honest and direct communication works best for and with me. If there is so
 - Know their skill levels
 - Trust, but verify
 - Speak up and stand up
+- Have proper work ethics (agenda management, being on-time, do what they promise)
 
 ## Hobbies & Interests
 - 🏍️ Riding my motorcycle
-- 🌴 Trips with my family
+- 🌴 Trips
 - 🏎️ Formula 1
 - 🍔 BBQ'ing
-
-
-
+- 🇵🇱 Learning Polish language
+- 🎾 Playing Tennis
